@@ -1,0 +1,52 @@
+h1{
+  text-align: center;
+}
+
+.template{
+  border:2px solid black;
+  height:25rem;
+  width:50%;
+  display:flex;
+  gap:12px;
+  background: skyblue;
+  position: relative;
+}
+.card1,.card2,.card3,.card4{
+  margin-top:5rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  height:12rem;
+  border:2px solid black;
+  width:25%;
+}
+ 
+.card1{
+  overflow:hidden;
+  background-position: cover;
+}
+
+.label{
+  display: flex;
+  gap: 90px;
+  position:absolute;
+  margin-top:17rem;
+  text-align: center;
+}
+
+.label h1:first-child{
+  margin-left:65px ;
+  text-align: center;
+}
+.label h1:nth-child(2){
+  margin-left:65px ;
+  text-align: center;
+}
+.label h1:nth-child(3){
+  margin-left:20px ;
+  text-align: center;
+}
+.label h1:last-child{
+  margin-left:-30px ;
+  text-align: center;
+}
+

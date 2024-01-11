@@ -33,6 +33,8 @@ function App() {
       <hr/>
       <h1>Notice</h1>
       <Notice/>
+      <hr/>
+      
     </div>
   );
 }
@@ -416,5 +418,6 @@ function Notice(){
     </div>
   )
 }
+
 
 export default App;
