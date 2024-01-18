@@ -1,0 +1,14 @@
+.card{
+    margin-top: 1.2rem;
+    margin-left: 4rem;
+    width: 18rem;
+}
+
+.card .title{
+    text-align: center;
+}
+.card .btn{
+    text-align: center;
+    margin-left: 6rem;
+    margin-bottom: 1.2rem;
+}
