@@ -1,15 +1,14 @@
+import React from 'react';
 import './App.css';
-import Header from "./components/Header";
-import Options from './components/Options';
+import ArrayPrint from './components/ArrayPrint';
 
 function App() {
   return (
     <div className="App">
-      <Header/>
-      <hr/>
-      <Options/>
+       <ArrayPrint />
     </div>
   );
 }
+
 
 export default App;

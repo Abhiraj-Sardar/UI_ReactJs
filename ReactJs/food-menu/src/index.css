@@ -1,4 +1,40 @@
 body{
-  margin:0px;
-  padding:0px;
+  margin: 0px;
+  padding: 0px;
+  background-color: #EEE;
+}
+.menu-btn button{
+  margin-left: 40px;
+}
+.card1{
+  height: 120px;
+  background-color: #fff;
+  box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px, rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+}
+.card1 .left-card{
+  height: 120px;
+  width: 30%;
+  float: left;
+}
+.card1 .right-card{
+  height: 120px;
+  width: 70%;
+  float: left;
+}
+.card1 .right-card h3{
+  padding: 10px 0px 0px 15px;
+}
+.card1 .right-card span{
+  display: block;
+  font-size: 18px;
+  font-weight: 500;
+  margin-left: 15px;
+}
+.btn h6{
+  margin-left: 2px;
+  margin-top: 2px;
+}
+.btn button{
+  border: none;
+  margin-left: 35px;
 }
