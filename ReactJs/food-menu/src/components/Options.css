@@ -1,0 +1,12 @@
+.options{
+    height:5rem;
+    width: 100%;
+    /* border:2px solid red; */
+    display:flex;
+    justify-content: center;
+    gap:12px;
+}
+.options .btn{
+    margin-top: 1.2rem;
+    height:2.5rem;
+}
