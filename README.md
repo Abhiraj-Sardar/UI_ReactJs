@@ -30,3 +30,15 @@ https://transcripts.gotomeeting.com/#/s/6477824738c7278e7d27e8e6e1a77be90784a86e
 ```json
 https://transcripts.gotomeeting.com/#/s/1aaffcf8228764b7c758c1970dc35985e3affc968869abcb4397502d86321089
 ```
+
+<h1>ReactJS Day-6</h1>
+
+```json
+https://transcripts.gotomeeting.com/#/s/58360d2ae5273101af68630fb7145c1ec1932d7367a0403b49c012cbb948fdc1
+```
+
+<h1>ReactJS Day-7</h1>
+
+```json
+https://transcripts.gotomeeting.com/#/s/eb2fb1465ff0ad09cc17540e5f8241eb31d757bfafa365a46347706909e87c3b
+```
